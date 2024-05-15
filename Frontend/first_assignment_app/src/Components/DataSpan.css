@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+  margin: 1.5rem;
+  padding: 10px;
+  align-items: center;
+}
+
+.icon {
+  border-radius: 10000px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
